@@ -1,0 +1,16 @@
+path: ./datasets/yolo_512_512_r_v5/
+train: images/train
+val: images/valid
+test: images/test
+
+names:
+  0: seg_orange_cone
+  1: unknown_cone
+  2: yellow_cone
+  3: seg_large_orange_cone
+  4: seg_blue_cone
+  5: seg_unknown_cone
+  6: seg_yellow_cone
+  7: blue_cone
+  8: orange_cone
+  9: large_orange_cone
